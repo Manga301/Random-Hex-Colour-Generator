@@ -13,6 +13,16 @@ body {
 
 .title {
     text-align: center;
+    font-size: 3rem;
+    font-weight: 100;
+    color: #1a6aa9;
+    margin-top: 3rem;
+}
+
+.detail {
+    text-align: center;
+    margin-top: 1rem;
+    font-size: 1.1rem;
 }
 
 .container {
